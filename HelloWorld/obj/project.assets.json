@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\teodo\\OneDrive\\Desktop\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\teodo\\Documents\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\teodo\\OneDrive\\Desktop\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\teodo\\Documents\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\teodo\\OneDrive\\Desktop\\HelloWorld\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\teodo\\Documents\\HelloWorld\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
