@@ -8,21 +8,13 @@ namespace HelloWorld
 
         static void Main(string[] args)
         {
-            string myname = "Denis";
-            string message = "My name is " + myname;
-            string capsMessage = message.ToUpper();
-            string lowerCaseMessage = message.ToLower();
-            string name = "Teodor";
-            //Console.WriteLine(name.ToUpper());
-            //Console.WriteLine(lowerCaseMessage);
-            //Console.Read();
-            Console.WriteLine("Enter Something");
-            string userInput = Console.ReadLine();
-            Console.WriteLine("You have entered {0}", userInput);
-            Console.WriteLine("Enter a string: ");
-            int asciiVallue = Console.Read();
-            Console.WriteLine("Ascii {0}", asciiVallue);
+            string test1;
+            Console.WriteLine("Enter your name: ");
+            test1 = Console.ReadLine();
+            Console.WriteLine(test1.ToUpper());
+            Console.WriteLine(string.Format("Your Name is {0} ", test1.ToUpper()));
             Console.ReadKey();
+
         }
 
 
