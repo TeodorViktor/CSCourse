@@ -13,8 +13,15 @@ namespace HelloWorld
             test1 = Console.ReadLine();
             Console.WriteLine(test1.ToUpper());
             Console.WriteLine(string.Format("Your Name is {0} ", test1.ToUpper()));
+            GreetFriend("Lukas");
             Console.ReadKey();
+            
+            
 
+        }
+        public static void GreetFriend(string friend) 
+        {
+            Console.WriteLine("Hi {0}", friend);
         }
 
 

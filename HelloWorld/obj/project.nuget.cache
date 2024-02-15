@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mndkygeUZJXkqtPL8XVOJ0BnKjR5T0o7YUptmQ1Nnc8bTPG0G2bAjZilGiVjHkgd0n0ensjtZhoXs3bdPOzpEg==",
+  "dgSpecHash": "6J5CjLnYHS6DG3trZgySQUjAUD+iWzOrSRBrOvssvgHggjE5IH+5aybSA5kMHsrEv/3GdeIifbeafltoEwCkBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\teodo\\Documents\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\teodo\\Documents\\CSCourse\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
