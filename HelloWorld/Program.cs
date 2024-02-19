@@ -24,6 +24,36 @@ namespace HelloWorld
             Console.WriteLine("Hi {0}", friend);
         }
 
+        public static void StateOfMatter() 
+        {
+            int temp = -5;
+            string matter;
+            // 3 if condition ways
+            // 1
+            if (temp < 0)
+            {
+                matter = "Solid";
+            }
+            else 
+            {
+                matter = "Liquid";
+            }
+
+            // 2
+
+            if (temp < 0)
+                matter = "Solid";
+            else
+                matter = "Liquid";
+
+
+            // 3 
+            if (temp < 0) matter = "Solid";
+            else matter = "Liquid";
+
+            // 4
+            matter = temp < 0 ? "Solid" : "Liquid";
+        }
 
     }
 }
