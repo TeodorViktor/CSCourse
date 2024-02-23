@@ -15,7 +15,7 @@ namespace HelloWorld
             Console.WriteLine(test1.ToUpper());
             Console.WriteLine(string.Format("Your Name is {0} ", test1.ToUpper()));
             GreetFriend("Lukas");
-            Console.ReadKey();
+            
 
             // If else and TryParse 
             Console.WriteLine("Please enter the temperature");
@@ -30,6 +30,11 @@ namespace HelloWorld
             {
                 Console.WriteLine("Not a valid Temperature");
             }
+
+            // OOP
+            Car audi = new Car("Audi");
+            audi.Drive();
+            Console.Read();
         }
 
 
@@ -79,4 +84,5 @@ namespace HelloWorld
                 Console.WriteLine("it is hot here");
         }
     }
+
 }
