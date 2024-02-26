@@ -8,14 +8,13 @@ namespace HelloWorld
 
         static void Main(string[] args)
         {
-
             string test1;
             Console.WriteLine("Enter your name: ");
             test1 = Console.ReadLine();
             Console.WriteLine(test1.ToUpper());
             Console.WriteLine(string.Format("Your Name is {0} ", test1.ToUpper()));
             GreetFriend("Lukas");
-            
+
 
             // If else and TryParse 
             Console.WriteLine("Please enter the temperature");
@@ -32,8 +31,28 @@ namespace HelloWorld
             }
 
             // OOP
-            Car audi = new Car("Audi");
+            Car audi = new Car("Audi", 70);
             audi.Drive();
+            Console.WriteLine("If you want to stop it enter \'S\'");
+            if (Console.ReadLine().ToUpper() == "S")
+            {
+                audi.Stop();
+            }
+            else
+            {
+                Console.WriteLine("It's not S and now you can't stop it");
+                Console.WriteLine("Do you still want to stop it? (Yes or No)");
+                if (Console.ReadLine().Substring(0, 1).ToUpper() == "Y")
+                {
+                    audi.Stop();
+                }
+                else
+                {
+                    Console.WriteLine("Again!!!");
+                }
+            }
+            audi.Info();
+
             Console.Read();
         }
 
