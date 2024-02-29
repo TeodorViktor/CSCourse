@@ -101,6 +101,9 @@ namespace HelloWorld
                 Console.WriteLine("it is ok");
             else
                 Console.WriteLine("it is hot here");
+            Car audi = new Car();
+            audi.SetName("audi");
+            audi.GetName();
         }
     }
 
