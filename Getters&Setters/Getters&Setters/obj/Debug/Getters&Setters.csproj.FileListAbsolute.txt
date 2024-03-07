@@ -1,0 +1,7 @@
+C:\Users\teodo\Documents\CSCourse\Getters&Setters\Getters&Setters\bin\Debug\Getters&Setters.exe.config
+C:\Users\teodo\Documents\CSCourse\Getters&Setters\Getters&Setters\bin\Debug\Getters&Setters.exe
+C:\Users\teodo\Documents\CSCourse\Getters&Setters\Getters&Setters\bin\Debug\Getters&Setters.pdb
+C:\Users\teodo\Documents\CSCourse\Getters&Setters\Getters&Setters\obj\Debug\Getters&Setters.csproj.AssemblyReference.cache
+C:\Users\teodo\Documents\CSCourse\Getters&Setters\Getters&Setters\obj\Debug\Getters&Setters.csproj.CoreCompileInputs.cache
+C:\Users\teodo\Documents\CSCourse\Getters&Setters\Getters&Setters\obj\Debug\Getters&Setters.exe
+C:\Users\teodo\Documents\CSCourse\Getters&Setters\Getters&Setters\obj\Debug\Getters&Setters.pdb
