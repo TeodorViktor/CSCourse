@@ -32,9 +32,10 @@
               "RelativeDocumentMoniker": "HelloWorld\\Car.cs",
               "ToolTip": "C:\\Users\\teodo\\Documents\\CSCourse\\HelloWorld\\Car.cs",
               "RelativeToolTip": "HelloWorld\\Car.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAATAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T14:25:17.693Z"
+              "WhenOpened": "2024-02-29T14:25:17.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +45,7 @@
               "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
               "ToolTip": "C:\\Users\\teodo\\Documents\\CSCourse\\HelloWorld\\Program.cs",
               "RelativeToolTip": "HelloWorld\\Program.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGYAAAA0AAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T14:25:13.185Z",
               "EditorCaption": ""

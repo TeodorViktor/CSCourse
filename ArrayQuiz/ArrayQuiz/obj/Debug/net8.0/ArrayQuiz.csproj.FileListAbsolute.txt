@@ -1,0 +1,15 @@
+C:\Users\teodo\Documents\CSCourse\ArrayQuiz\ArrayQuiz\bin\Debug\net8.0\ArrayQuiz.exe
+C:\Users\teodo\Documents\CSCourse\ArrayQuiz\ArrayQuiz\bin\Debug\net8.0\ArrayQuiz.deps.json
+C:\Users\teodo\Documents\CSCourse\ArrayQuiz\ArrayQuiz\bin\Debug\net8.0\ArrayQuiz.runtimeconfig.json
+C:\Users\teodo\Documents\CSCourse\ArrayQuiz\ArrayQuiz\bin\Debug\net8.0\ArrayQuiz.dll
+C:\Users\teodo\Documents\CSCourse\ArrayQuiz\ArrayQuiz\bin\Debug\net8.0\ArrayQuiz.pdb
+C:\Users\teodo\Documents\CSCourse\ArrayQuiz\ArrayQuiz\obj\Debug\net8.0\ArrayQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\Documents\CSCourse\ArrayQuiz\ArrayQuiz\obj\Debug\net8.0\ArrayQuiz.AssemblyInfoInputs.cache
+C:\Users\teodo\Documents\CSCourse\ArrayQuiz\ArrayQuiz\obj\Debug\net8.0\ArrayQuiz.AssemblyInfo.cs
+C:\Users\teodo\Documents\CSCourse\ArrayQuiz\ArrayQuiz\obj\Debug\net8.0\ArrayQuiz.csproj.CoreCompileInputs.cache
+C:\Users\teodo\Documents\CSCourse\ArrayQuiz\ArrayQuiz\obj\Debug\net8.0\ArrayQuiz.sourcelink.json
+C:\Users\teodo\Documents\CSCourse\ArrayQuiz\ArrayQuiz\obj\Debug\net8.0\ArrayQuiz.dll
+C:\Users\teodo\Documents\CSCourse\ArrayQuiz\ArrayQuiz\obj\Debug\net8.0\refint\ArrayQuiz.dll
+C:\Users\teodo\Documents\CSCourse\ArrayQuiz\ArrayQuiz\obj\Debug\net8.0\ArrayQuiz.pdb
+C:\Users\teodo\Documents\CSCourse\ArrayQuiz\ArrayQuiz\obj\Debug\net8.0\ArrayQuiz.genruntimeconfig.cache
+C:\Users\teodo\Documents\CSCourse\ArrayQuiz\ArrayQuiz\obj\Debug\net8.0\ref\ArrayQuiz.dll

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{B93CE1F0-B2B9-4A7C-911E-10257D4BBB0D}|Getters\u0026Setters\\Getters\u0026Setters.csproj|solutionrelative:getters\u0026setters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B93CE1F0-B2B9-4A7C-911E-10257D4BBB0D}|Getters\u0026Setters\\Getters\u0026Setters.csproj|c:\\users\\teodo\\documents\\cscourse\\getters\u0026setters\\getters\u0026setters\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B93CE1F0-B2B9-4A7C-911E-10257D4BBB0D}|Getters\u0026Setters\\Getters\u0026Setters.csproj|C:\\Users\\teodo\\Documents\\CSCourse\\Getters\u0026Setters\\getters\u0026setters\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B93CE1F0-B2B9-4A7C-911E-10257D4BBB0D}|Getters\u0026Setters\\Getters\u0026Setters.csproj|solutionrelative:getters\u0026setters\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Getters\u0026Setters\\Car.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T23:07:54.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T23:07:54.86Z"
             },
             {
               "$type": "Document",
